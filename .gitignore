@@ -1,0 +1,10 @@
+data/
+models/
+logs/
+*.zip
+*.h5
+*.keras
+*.joblib
+.ipynb_checkpoints/
+__pycache__/
+venv/
