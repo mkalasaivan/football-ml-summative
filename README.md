@@ -5,8 +5,7 @@
 
 | Resource | Link |
 |---|---|
-| [Football_ML_Summative_Report-Ivan-Olivier-Muhoza.pdf](https://github.com/user-attachments/files/33641522/Football_ML_Summative_Report-Ivan-Olivier-Muhoza.pdf)
-
+| PDF report | [Football_ML_Summative_Report-Ivan-Olivier-Muhoza.pdf](https://github.com/user-attachments/files/33641522/Football_ML_Summative_Report-Ivan-Olivier-Muhoza.pdf) |
 | Google Drive (raw data, model weights, TensorBoard logs) | [link](https://drive.google.com/drive/folders/1seN--4sPJiGN4XitmOG9qZvd0dKwJ4qU?usp=sharing) |
 | Video presentation | [link](https://www.loom.com/share/4d336d268c5346deab7d737ea2b6e49) |
 
