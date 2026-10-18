@@ -6,7 +6,7 @@
 | Resource | Link |
 |---|---|
 | Report (PDF) | *add link* |
-| Google Drive (raw data, model weights, TensorBoard logs) | *add link* |
+| Google Drive (raw data, model weights, TensorBoard logs) | *[link*](https://drive.google.com/drive/folders/1seN--4sPJiGN4XitmOG9qZvd0dKwJ4qU?usp=sharing) |
 | Video presentation | *add link* |
 
 ## Problem
