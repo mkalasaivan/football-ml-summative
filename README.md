@@ -6,8 +6,8 @@
 | Resource | Link |
 |---|---|
 | Report (PDF) | *add link* |
-| Google Drive (raw data, model weights, TensorBoard logs) | *[link*](https://drive.google.com/drive/folders/1seN--4sPJiGN4XitmOG9qZvd0dKwJ4qU?usp=sharing) |
-| Video presentation | *add link* |
+| Google Drive (raw data, model weights, TensorBoard logs) | [link](https://drive.google.com/drive/folders/1seN--4sPJiGN4XitmOG9qZvd0dKwJ4qU?usp=sharing) |
+| Video presentation | [link] (https://www.loom.com/share/4d336d268c5346deab7d737ea2b6e49d) |
 
 ## Problem
 Clubs like Manchester City have spent heavily on transfers, and their success is often credited to that money. This project measures how well financial power (squad market value and net transfer spend) predicts match results, and how much it adds beyond sporting signals such as Elo ratings and recent form. Each match is classified as **away win, draw or home win**. Champions League matches are analysed as a subset, with Manchester City as a case study.
