@@ -1,7 +1,7 @@
 # Does Money Buy Wins? Predicting European Football Match Outcomes from Club Spending
 **Traditional Machine Learning vs Deep Learning on Transfermarkt data**
 
-*[Your name]*, African Leadership University, Machine Learning Summative
+*Ivan Olivier Muhoza*, African Leadership University, Machine Learning Summative
 
 | Resource | Link |
 |---|---|
